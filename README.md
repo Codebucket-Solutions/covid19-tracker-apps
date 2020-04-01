@@ -1,6 +1,6 @@
 # Covid19 Tracker Apps
 
-In order to slow down the COVID19 pandemic, governments all over the world are creating mobile apps to track its citizens. This dashboard is also available at [https://fs0c131y.com/covid19-tracker-apps/](https://fs0c131y.com/covid19-tracker-apps/)
+In order to slow down the COVID19 pandemic, governments all over the world are creating mobile apps to track its citizens.
 
 ## Governmental Apps
 
@@ -51,6 +51,6 @@ In order to slow down the COVID19 pandemic, governments all over the world are c
 
 ## Contribution
 
-If you think an app or a link is missing, please send me a message at [fs0c131y@protonmail.com](mailto:fs0c131y@protonmail.com) or a direct message on Twitter at [@fs0c131y](twitter.com/fs0c131y)
+By Humanity
 
 
